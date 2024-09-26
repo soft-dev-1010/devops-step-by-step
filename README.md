@@ -3,7 +3,6 @@
   <img src="./source/images/mics/devops-visions-logo.png"/>
 </p>
 
-![Views](https://Views-badge.glitch.me/badge?page_id=devops-visions.Views-badge)
 ![Stars](https://img.shields.io/github/stars/MohamedRadwan-DevOps/devops-step-by-step.svg?color=green)
 ![Watchers](https://img.shields.io/github/watchers/MohamedRadwan-DevOps/devops-step-by-step.svg?color=ff69b4)
 ![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/MohamedRadwan-DevOps/devops-step-by-step?color=brightgreen)
@@ -15,37 +14,73 @@
 ![Contributors](https://img.shields.io/github/contributors/MohamedRadwan-DevOps/devops-step-by-step.svg?color=orange)
 ![YouTube Subscriber](https://img.shields.io/youtube/channel/subscribers/UC-G5jjBDFow_FRXql0t1JMQ?label=youtube%20subscribers&style=flat&color=bf1d1d)
 
-- [⬇️ Advanced Introduction to DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
+- [⬇️ Introduction to Information Technology](/source/introduction-to-information-technology/ "Introduction to Information Technology")
 
-  - [⚠️ Course Info and Prerequisites](/source/advanced-introduction-to-devops/devops-info-prerequisite.md "Course Info and Prerequisites")
+  - [⚠️ Course Info and Prerequisites](/source/introduction-to-information-technology/source/it-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [📃 Course Outlines](/source/advanced-introduction-to-devops/devops-outline.md "Course Outlines")
+  - [📃 Course Outlines](/source/introduction-to-information-technology/source/it-outline.md "Course Outlines")
 
-  - [🔖 Course Lessons Outcomes](/source/advanced-introduction-to-devops/devops-lessons-outcomes.md "Course Lessons Outcomes")
+  - [❓ Course FAQ](/source/introduction-to-information-technology/source/it-faq.md "Course FAQ")
 
-  - [🧪 Course Demos/Labs](/source/advanced-introduction-to-devops/devops-demos-labs.md "Course Demos/Labs")
+- [⬇️ Fundamentals of Modern Software Engineering and DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
 
-  - [📝 Course Preparation Points](/source/advanced-introduction-to-devops/devops-lessons-preparation.md "Course Preparation Points")
+  - [⚠️ Course Info and Prerequisites](/source/advanced-introduction-to-devops/source/devops-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [❓ Course FAQ](/source/advanced-introduction-to-devops/devops-faq.md "Course FAQ")
+  - [📃 Course Outlines](/source/advanced-introduction-to-devops/source/devops-outline.md "Course Outlines")
+
+  - [🔖 Course Lessons Outcomes](/source/advanced-introduction-to-devops/source/devops-lessons-outcomes.md "Course Lessons Outcomes")
+
+  - [🧪 Course Demos/Labs](/source/advanced-introduction-to-devops/source/devops-demos-labs.md "Course Demos/Labs")
+
+  - [📝 Course Preparation Points](/source/advanced-introduction-to-devops/source/devops-lessons-preparation.md "Course Preparation Points")
+
+  - [❓ Course FAQ](/source/advanced-introduction-to-devops/source/devops-faq.md "Course FAQ")
+
 
 - [⬇️ Mastering Microsoft DevOps Solutions (Get Certified)](/source/mastering-microsoft-devops-solutions/ "Mastering Microsoft DevOps Solutions (Get Certified)")
 
-  - [⚠️ Course Info and Prerequisites](/source/mastering-microsoft-devops-solutions/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
+  - [⚠️ Course Info and Prerequisites](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [📃 Course Outlines](/source/mastering-microsoft-devops-solutions/microsoft-devops-outline.md "Course Outlines")
+  - [📃 Course Outlines](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-outline.md "Course Outlines")
 
-  - [🔖 Course Lessons Outcomes](/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
+  - [🔖 Course Lessons Outcomes](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-  - [🧪 Course Demos/Labs](/source/mastering-microsoft-devops-solutions/microsoft-devops-demos-labs.md "Course Demos/Labs")
+  - [🧪 Course Demos/Labs](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-demos-labs.md "Course Demos/Labs")
 
-  - [📝 Course Preparation Points](/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-preparation.md "Course Preparation Points")
+  - [📝 Course Preparation Points](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-lessons-preparation.md "Course Preparation Points")
 
-  - [❓ Course FAQ](/source/mastering-microsoft-devops-solutions/microsoft-devops-faq.md "Course FAQ")
+  - [❓ Course FAQ](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-faq.md "Course FAQ")
 
 - [⬇️ Mastering Terraform (Get Certified)](source/mastering-terraform/ "Mastering Terraform (Get Certified)")
 
-  - [📃 Course Outlines](/source/mastering-terraform/terraform-outline.md "Course Outlines")
+  - [📃 Course Outlines](source/mastering-terraform/source/terraform-outline.md "Course Outlines")
+
+- [💪 Mentoring Service](/source/mentoring-service/ "Mentoring Service")
+
+  - [📃 Mentor Service Conditions](/source/mentoring-service/source/conditions.md "Mentor Service Conditions")
+
+  - [📅 Agenda](/source/mentoring-service/source/agenda.md "Agenda")
+
+  - [📅 Events Schedule](/source/mentoring-service/source/events-schedule.md "Events Schedule")
+
+  - [👪 Community Gathering](/source/mentoring-service/source/community-gathering.md "Community Gathering")
+  
+  - [💭 Mindmap for Mentorship Program Services](source/mentoring-service/source/mind-map.md)
+
+- [📰 News](/source/news/ "News")
+
+  - [🗞️ News 2023](/source/news/source/news-2023.md "News 2023")
+  - [🗞️ News 2024](/source/news/source/news-2024.md "News 2024")
+
+- [❤️ Contribution](/source/contribution/ "Contribution")
+
+  - [🔎 Contribution Culture](/source/contribution/source/contribution-culture.md "Contribution Culture")
+
+  - [💡 How to contribute?](/source/contribution/source/how-to-contribute.md "How to contribute")
+
+  - [🎯 Guidelines to write Q/A Demos](/source/contribution/source/Guidlines-to-write-Q-A-demos.md "Guidelines to write Q/A Demos")
+  
+  - [📑 Q/A Template](/source/contribution/assets/templates/ "Q/A Template")
 
 - [📑 Source Code](/source/source-code/ "Source Code/Labs")
 
@@ -53,9 +88,11 @@
 
 - [❓ General FAQ](/source/faq.md "FAQ")
 
-- [🙋‍♀️ Q/A](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
+- [🙋‍♀️ Q/A (Knowledge Base) (KB)](https://qa.devopsvisions.com/ "Q/A")
 
-- [⭐ Reviews](/source/reviews.md "Click here to See Members Reviews")
+- [⭐ Reviews (Individuals)](/source/review-individuals.md "Click here to See Members Reviews")
+
+- [⭐ Reviews (Corporates)](/source/review-corporates.md "Click here to See Corporates Reviews")
 
 - [📅 Course Schedule](/source/course-schedule.md "Course Schedule")
 
@@ -64,16 +101,10 @@
 - [📝 Terms & Conditions](/source/terms-conditions.md "Terms & Conditions")
 
 - [📜 Return Policy](/source/cancel-return-policy.md "Return Policy")
- 
-- [💪 Mentoring Service](/source/mentoring-service.md "Mentoring Service")
 
-- [📅 Events Schedule](/source/events-schedule.md "Events Schedule")
+- [▶ Subscribe to our channel (English)](https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1 "Subscribe to Mohamed's YouTube Channel")
 
-- [❤️ Contribution](/source/contribution/ "Contribution")
-
-- [▶ Subscribe to our channel (English)](https://www.youtube.com/user/MRadwanMSF "Subscribe to Mohamed's YouTube Channel")
-
-- [▶ Subscribe to our channel (Arabic)](https://www.youtube.com/c/MohamedRadwanArabic "Subscribe to Mohamed's YouTube Channel")
+- [▶ Subscribe to our channel (Arabic)](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1 "Subscribe to Mohamed's YouTube Channel")
 
 ## Connect with me
   [![Twitter](/source/images/mics/twitter-icon.png "Twitter")](https://twitter.com/mradwan06)
@@ -84,7 +115,7 @@
   &ensp;
   [![YouTube](/source/images/mics/youtube-icon.png "Arabic YouTube Channel")](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1)
   &ensp;
-  [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](#)
+   [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](https://www.instagram.com/mradwan06/)
   &ensp;
   [![Website](/source/images/mics/website-icon.png "Website")](https://mohamedradwan.com/)
   &ensp;

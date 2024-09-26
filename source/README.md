@@ -1,63 +1,95 @@
 # DevOps Step-By-Step
 
-- [⬇️ Advanced Introduction to DevOps](advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
+- [⬇️ Introduction to Information Technology](/source/introduction-to-information-technology/ "Introduction to Information Technology")
 
-  - [⚠️ Course Info and Prerequisites](advanced-introduction-to-devops/devops-info-prerequisite.md "Course Info and Prerequisites")
+  - [⚠️ Course Info and Prerequisites](/source/introduction-to-information-technology/source/it-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [📃 Course Outlines](advanced-introduction-to-devops/devops-outline.md "Course Outlines")
+  - [📃 Course Outlines](/source/introduction-to-information-technology/source/it-outline.md "Course Outlines")
 
-  - [🔖 Course Lessons Outcomes](advanced-introduction-to-devops/devops-lessons-outcomes.md "Course Lessons Outcomes")
+  - [❓ Course FAQ](/source/introduction-to-information-technology/source/it-faq.md "Course FAQ")
 
-  - [🧪 Course Demos/Labs](advanced-introduction-to-devops/devops-demos-labs.md "Course Demos/Labs")
+- [⬇️ Fundamentals of Modern Software Engineering and DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
 
-  - [📝 Course Preparation Points](advanced-introduction-to-devops/devops-lessons-preparation.md "Course Preparation Points")
+  - [⚠️ Course Info and Prerequisites](/source/advanced-introduction-to-devops/source/devops-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [❓ Course FAQ](advanced-introduction-to-devops/devops-faq.md "Course FAQ")
+  - [📃 Course Outlines](/source/advanced-introduction-to-devops/source/devops-outline.md "Course Outlines")
 
-- [⬇️ Mastering Microsoft DevOps Solutions (Get Certified)](mastering-microsoft-devops-solutions/ "Mastering Microsoft DevOps Solutions (Get Certified)")
+  - [🔖 Course Lessons Outcomes](/source/advanced-introduction-to-devops/source/devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-  - [⚠️ Course Info and Prerequisites](mastering-microsoft-devops-solutions/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
+  - [🧪 Course Demos/Labs](/source/advanced-introduction-to-devops/source/devops-demos-labs.md "Course Demos/Labs")
 
-  - [📃 Course Outlines](mastering-microsoft-devops-solutions/microsoft-devops-outline.md "Course Outlines")
+  - [📝 Course Preparation Points](/source/advanced-introduction-to-devops/source/devops-lessons-preparation.md "Course Preparation Points")
 
-  - [🔖 Course Lessons Outcomes](mastering-microsoft-devops-solutions/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
+  - [❓ Course FAQ](/source/advanced-introduction-to-devops/source/devops-faq.md "Course FAQ")
 
-  - [🧪 Course Demos/Labs](mastering-microsoft-devops-solutions/microsoft-devops-demos-labs.md "Course Demos/Labs")
 
-  - [📝 Course Preparation Points](mastering-microsoft-devops-solutions/microsoft-devops-lessons-preparation.md "Course Preparation Points")
+- [⬇️ Mastering Microsoft DevOps Solutions (Get Certified)](/source/mastering-microsoft-devops-solutions/ "Mastering Microsoft DevOps Solutions (Get Certified)")
 
-  - [❓ Course FAQ](mastering-microsoft-devops-solutions/microsoft-devops-faq.md "Course FAQ")
+  - [⚠️ Course Info and Prerequisites](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
 
-- [⬇️ Mastering Terraform (Get Certified)](mastering-terraform/ "Mastering Terraform (Get Certified)")
+  - [📃 Course Outlines](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-outline.md "Course Outlines")
 
-  - [📃 Course Outlines](mastering-terraform/terraform-outline.md "Course Outlines")
+  - [🔖 Course Lessons Outcomes](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-- [📑 Source Code](source-code/ "Source Code/Labs")
+  - [🧪 Course Demos/Labs](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-demos-labs.md "Course Demos/Labs")
 
-- [🎯 Guides](source/docs/ "Guides")
+  - [📝 Course Preparation Points](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-lessons-preparation.md "Course Preparation Points")
 
-- [❓ General FAQ](faq.md "FAQ")
+  - [❓ Course FAQ](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-faq.md "Course FAQ")
 
-- [🙋‍♀️ Q/A](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
+- [⬇️ Mastering Terraform (Get Certified)](source/mastering-terraform/ "Mastering Terraform (Get Certified)")
 
-- [⭐ Reviews](reviews.md "Click here to See Members Reviews")
+  - [📃 Course Outlines](/source/mastering-terraform/source/terraform-outline.md "Course Outlines")
 
-- [📅 Course Schedule](course-schedule.md "Course Schedule")
+- [💪 Mentoring Service](./mentoring-service/ "Mentoring Service")
 
-- [💰 Prices](service-prices.md "Service Prices")
+  - [📃 Mentor Service Conditions](./mentoring-service/source/conditions.md "Mentor Service Conditions")
 
-- [📝 Terms & Conditions](terms-conditions.md "Terms & Conditions")
+  - [📅 Agenda](./mentoring-service/source/agenda.md "Agenda")
 
-- [📜 Return Policy](cancel-return-policy.md "Return Policy")
- 
-- [💪 Mentoring Service](mentoring-service.md "Mentoring Service")
+  - [📅 Events Schedule](./mentoring-service/source/events-schedule.md "Events Schedule")
 
-- [📅 Events Schedule](events-schedule.md "Events Schedule")
+  - [👪 Community Gathering](./mentoring-service/source/community-gathering.md "Community Gathering")
 
-- [❤️ Contribution](contribution/ "Contribution")
+  - [💭 Mindmap for Mentorship Program Services](./mentoring-service/source/mind-map.md)
+
+- [📰 News](/source/news/ "News")
+
+  - [🗞️ News 2023](/source/news/source/news-2023.md "News 2023")
+  - [🗞️ News 2024](/source/news/source/news-2024.md "News 2024")
+
+- [❤️ Contribution](/source/contribution/ "Contribution")
+
+  - [🔎 Contribution Culture](./contribution/source/contribution-culture.md "Contribution Culture")
+
+  - [💡 How to contribute?](./contribution/source/how-to-contribute.md "How to contribute")
+
+  - [🎯 Guidelines to write Q/A Demos](./contribution/source/Guidlines-to-write-Q-A-demos.md "Guidelines to write Q/A Demos")
+
+  - [📑 Q/A Template](./contribution/assets/templates/ "Q/A Template")
+
+- [📑 Source Code](/source/source-code/ "Source Code/Labs")
+
+- [🎯 Guides](/source/docs/ "Guides")
+
+- [❓ General FAQ](/source/faq.md "FAQ")
+
+- [🙋‍♀️ Q/A (Knowledge Base) (KB)](https://qa.devopsvisions.com/ "Q/A")
+
+- [⭐ Reviews (Individuals)](/source/review-individuals.md "Click here to See Members Reviews")
+
+- [⭐ Reviews (Corporates)](/source/review-corporates.md "Click here to See Corporates Reviews")
+
+- [📅 Course Schedule](/source/course-schedule.md "Course Schedule")
+
+- [💰 Prices](/source/service-prices.md "Service Prices")
+
+- [📝 Terms & Conditions](/source/terms-conditions.md "Terms & Conditions")
+
+- [📜 Return Policy](/source/cancel-return-policy.md "Return Policy")
+
+- [📅 Events Schedule](/source/events-schedule.md "Events Schedule")
 
 - [▶ Subscribe to our channel (English)](https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1 "Subscribe to Mohamed's YouTube Channel")
 
 - [▶ Subscribe to our channel (Arabic)](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1 "Subscribe to Mohamed's YouTube Channel")
-
-
